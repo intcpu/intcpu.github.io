@@ -4,8 +4,8 @@
         <description>intcpu的博客</description>
         <link>/</link>
         <atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2017-08-17 09:08:30</pubDate>
-        <lastBuildDate>2017-08-17 09:08:30</lastBuildDate>
+        <pubDate>2017-08-17 10:08:20</pubDate>
+        <lastBuildDate>2017-08-17 10:08:20</lastBuildDate>
         <generator>Gitblog v1.0</generator>
                 <item>
             <title>PHP开源产品收藏单</title>
@@ -129,7 +129,7 @@ summary: 收藏PHP个人觉得有用的开源产品，并分类展示，包括�
 &lt;a href=&quot;https://www.oschina.net/p/yii-chinese&quot; title=&quot;yii-chinese&quot;&gt;中文编码集合类库 yii-chinese [国产]&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.oschina.net/p/phpchinesetopinyin&quot; title=&quot;PHPChineseToPinyin&quot;&gt;PHP 汉字转拼音类 PHPChineseToPinyin [国产]&lt;/a&gt;  &lt;/p&gt;
 &lt;/blockquote&gt;            </description>
-            <pubDate>2017-08-17 08:50:44</pubDate>
+            <pubDate>2017-08-17 10:39:19</pubDate>
             <link>//blog/php-kaiyuan-chanpin-shouchan-dan.html</link>
             <guid isPermaLink="true">//blog/php-kaiyuan-chanpin-shouchan-dan.html</guid>
                                                <category>PHP</category>
