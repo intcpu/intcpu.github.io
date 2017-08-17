@@ -1,0 +1,31 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: /
+title: intcpu
+subtitle: intcpu的博客
+theme: quest
+enableCache: true
+highlight: true
+mathjax: false
+katex: false
+youyan:
+baiduAnalytics:
+keywords: intcpu,博客
+description: >
+    intcpu的博客
+version: 2.2
+author:
+    name: intcpu
+    email: intcpu@foxmail.com
+    github: intcpu
+    weibo: intcpu
+    avatar: blog/img/logo_128x128.png
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: intcpu博客
+    intro: >
+          个人博客，欢迎访问
