@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>intcpu</title>
+        <description>intcpu的博客</description>
+        <link>/</link>
+        <atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
+        <pubDate>2017-08-17 09:08:30</pubDate>
+        <lastBuildDate>2017-08-17 09:08:30</lastBuildDate>
+        <generator>Gitblog v1.0</generator>
+                <item>
+            <title>PHP开源产品收藏单</title>
+            <description>
+            &lt;!--  
+author: intcpu
+head: img/logo_64x64.png
+date: 2017-08-16
+title: PHP开源产品收藏单
+tags: PHP 开源 收藏
+images: blog/img/cube2.jpg
+category: PHP
+status: publish
+summary: 收藏PHP个人觉得有用的开源产品，并分类展示，包括：扩展模块，技术框架，程序工具，架构工具，维护工具，个人博客，企业建站，企业门户，企业商城，高级用法等
+--&gt;
+&lt;h6&gt;扩展模块&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/php-beast&quot; title=&quot;php-beast&quot;&gt;PHP 源码加密模块 php-beast [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/phpscrew&quot; title=&quot;PHP Screw&quot;&gt;PHP源文件加密工具 PHP Screw [推荐]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/seaslog&quot; title=&quot;SeasLog&quot;&gt;PHP日志扩展 SeasLog [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/jsond&quot; title=&quot;JSOND&quot;&gt;一个更优的PHP JSON解析器 JSOND [推荐]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/tclip&quot; title=&quot;Tclip&quot;&gt;php图片裁剪 Tclip [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;技术框架&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/php-yaf&quot; title=&quot;Yaf&quot;&gt;PHP框架 Yaf [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/codeigniter&quot; title=&quot;CodeIgniter&quot;&gt;PHP 的 MVC 框架 CodeIgniter&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/laravel&quot; title=&quot;Laravel&quot;&gt;PHP开发框架 Laravel [推荐]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/yii2&quot; title=&quot;Yii2&quot;&gt;PHP 框架 Yii2&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;PHP扩展加强&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/swoole-server&quot;&gt;PHP 的异步并行 C 扩展 Swoole&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/swoole&quot; title=&quot;Swoole Framework&quot;&gt;PHP高级Web开发框架 Swoole Framework [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/swooledistributed&quot; title=&quot;SwooleDistributed&quot;&gt;Swoole 分布式通讯框架 SwooleDistributed [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/workerman&quot; title=&quot;Workerman&quot;&gt;高性能 PHP socket 框架 Workerman [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/swoft&quot; title=&quot;Swoft&quot;&gt;高性能 PHP 微服务框架 Swoft [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/workerman&quot; title=&quot;Workerman&quot;&gt;高性能 PHP socket 框架 Workerman [推荐] [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;程序工具&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/ip2region&quot; title=&quot;ip2region&quot;&gt;IP 到地名映射库 ip2region [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/touclick&quot; title=&quot;touclick&quot;&gt;点触验证 touclick [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/phpsms&quot; title=&quot;phpsms&quot;&gt;php短信发送库 phpsms&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/clickheat&quot; title=&quot;ClickHeat&quot;&gt;网站热图生成工具 ClickHeat [推荐]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/hyperdown&quot; title=&quot;HyperDown&quot;&gt;PHP Markdown 解析器 HyperDown [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/phpchart&quot; title=&quot;phpChart&quot;&gt;PHP图表库 phpChart&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/magentoc&quot; title=&quot;MagentoC&quot;&gt;Magento中文定制版 MagentoC [国产]&lt;/a&gt;|购物车系统&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/yii-wechat&quot; title=&quot;Yii-wechat&quot;&gt;Yii 的微信模块 Yii-wechat [推荐] [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;架构工具&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/xunsearch&quot; title=&quot;XunSearch&quot;&gt;迅搜全文搜索引擎 XunSearch [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/phalapi&quot; title=&quot;PhalApi&quot;&gt;轻量级PHP后台接口开发框架 PhalApi [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/sequoiadb&quot; title=&quot;SequoiaDB&quot;&gt;企业级分布式NoSQL数据库 SequoiaDB [推荐] [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;维护工具&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/rediswebadmin&quot;&gt;Redis 数据管理工具 RedisWebAdmin&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/zabbix&quot; title=&quot;zabbix&quot;&gt;分布式系统监视 zabbix [推荐]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/phpmyadmin&quot; title=&quot;phpMyAdmin&quot;&gt;MySQL管理工具 phpMyAdmin [推荐]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/mysqlmtop&quot; title=&quot;MySQL MTOP&quot;&gt;MySQL企业监控系统 MySQL MTOP [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/cobub-razor&quot; title=&quot;Cobub Razor&quot;&gt;移动应用统计 Cobub Razor [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/osa&quot; title=&quot;OSA&quot;&gt;开放的运维管理系统 OSA [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/walle-web&quot; title=&quot;Walle&quot;&gt;web上线部署系统工具 Walle [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/falcon&quot; title=&quot;Falcon&quot;&gt;Web服务器文件安全监控平台 Falcon [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/ushahidi&quot; title=&quot;Ushahidi&quot;&gt;开源报警平台 Ushahidi&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/bugtrace&quot; title=&quot;BugTrace&quot;&gt;开源缺陷跟踪软件 BugTrace [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/osa-minitor&quot; title=&quot;OSA监控精灵&quot;&gt;OSA监控精灵 [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/webshare&quot; title=&quot;WebShare&quot;&gt;webFTP资源管理器webFTP资源管理器 WebShare&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;个人博客&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/startblog&quot; title=&quot;Startblog&quot;&gt;跨平台的 Markdown 博客系统 Startblog [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/maupassant&quot; title=&quot;maupassant&quot;&gt;基于 PHP 的个人博客模板 maupassant [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/Gitblog&quot; title=&quot;Gitblog&quot;&gt;Markdown 博客系统 Gitblog [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/fcontex&quot; title=&quot;fcontex&quot;&gt;博客平台和内容管理系统 fcontex [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/moell-blog&quot; title=&quot;moell blog&quot;&gt;支持 markdown 的简易博客 moell blog [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;商业网站&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/ngoos&quot; title=&quot;NGOOS&quot;&gt;TYPO3 中文版 NGOOS [推荐] [国产]&lt;/a&gt;|公益平台&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/eduwind&quot; title=&quot;EduWind&quot;&gt;在线教育专业建站工具 EduWind [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/gxcms&quot; title=&quot;光线CMS&quot;&gt;智能影视站系统 光线CMS [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/linger&quot; title=&quot;Linger&quot;&gt;PHP 图片分享系统 Linger [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/phpems&quot; title=&quot;PHPems&quot;&gt;在线模拟考试系统 PHPems [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/we_questionnaire&quot; title=&quot;We_Questionnaire&quot;&gt;移动端问卷调查 We_Questionnaire [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/ecjia-daojia&quot; title=&quot;ECJia到家&quot;&gt;O2O 的移动电商系统 ECJia到家 [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;企业门户&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/bagecms&quot; title=&quot;BageCms&quot;&gt;网站内容管理系统 BageCms [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/corethink&quot; title=&quot;零云&quot;&gt;轻量级WEB产品开发框架 零云 [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/fircms&quot; title=&quot;FirCMS&quot;&gt;基于 Yii 开发的 CMS 系统 FirCMS [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;企业商城&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/makingware&quot; title=&quot;Makingware&quot;&gt;Magento 中文版本 Makingware [推荐] [国产]&lt;/a&gt;|企业级电子商务&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/Haidao&quot; title=&quot;海盗云商&quot;&gt;开源电子商务网店程序 海盗云商 [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/ecmos&quot; title=&quot;ECMOS&quot;&gt;基于 ecmall 深度定制的商城系统 ECMOS [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/wemall&quot; title=&quot;WeMall&quot;&gt;微信商城云平台 WeMall [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;企业协作&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/api-admin&quot; title=&quot;ApiAdmin&quot;&gt;专注于API的管理后台 ApiAdmin [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/openbiz-cubi&quot; title=&quot;Openbiz Cubi&quot;&gt;一体化办公软件 Openbiz Cubi [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/ibos&quot; title=&quot;IBOS&quot;&gt;基于Yii的协同办公管理系统 IBOS [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/open-x&quot; title=&quot;ONES&quot;&gt;开源企业管理软件 ONES [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/xapi-manager&quot; title=&quot;xApi Manager&quot;&gt;基于 Laravel 5.4 接口管理平台 xApi Manager [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;高级用法&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/goemphp&quot; title=&quot;GoEmPHP&quot;&gt;Go 嵌入 PHP 脚本 GoEmPHP [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/php-ml&quot; title=&quot;PHP-ML&quot;&gt;PHP 机器学习库 PHP-ML [推荐]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/ohsce&quot; title=&quot;OHSCE&quot;&gt;高可靠性的 PHP 通信框架 OHSCE [推荐] [国产]&lt;/a&gt;|硬件串口读取  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6&gt;另类工具&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oschina.net/p/opencc&quot; title=&quot;OpenCC&quot;&gt;中文简繁转换项目 OpenCC [推荐] [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/phc&quot; title=&quot;phc&quot;&gt;PHP编译器 phc&lt;/a&gt;|PHP编译可执行程序&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/yii-chinese&quot; title=&quot;yii-chinese&quot;&gt;中文编码集合类库 yii-chinese [国产]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.oschina.net/p/phpchinesetopinyin&quot; title=&quot;PHPChineseToPinyin&quot;&gt;PHP 汉字转拼音类 PHPChineseToPinyin [国产]&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;            </description>
+            <pubDate>2017-08-17 08:50:44</pubDate>
+            <link>//blog/php-kaiyuan-chanpin-shouchan-dan.html</link>
+            <guid isPermaLink="true">//blog/php-kaiyuan-chanpin-shouchan-dan.html</guid>
+                                               <category>PHP</category>
+                                    </item>
+            </channel>
+</rss>
