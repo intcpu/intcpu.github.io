@@ -9,7 +9,7 @@ highlight: true
 mathjax: false
 katex: false
 youyan:
-baiduAnalytics:
+baiduAnalytics: 14bc681871c890e023940b159426a774
 keywords: intcpu,博客
 description: >
     intcpu的博客
@@ -26,6 +26,6 @@ blog:
     pageBarSize: 5
     allBlogsForPage: false
 text:
-    title: intcpu博客
+    title: intcpu的博客
     intro: >
           个人博客，欢迎访问
