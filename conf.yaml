@@ -1,8 +1,8 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
 url: /
-title: intcpu
-subtitle: intcpu的博客
+title: 算数
+subtitle: 算数的博客
 theme: quest
 enableCache: true
 highlight: true
@@ -10,9 +10,9 @@ mathjax: false
 katex: false
 youyan:
 baiduAnalytics: 14bc681871c890e023940b159426a774
-keywords: intcpu,博客
+keywords: 算数,博客,intcpu
 description: >
-    intcpu的博客
+    算数的博客
 version: 2.2
 author:
     name: intcpu
@@ -26,6 +26,6 @@ blog:
     pageBarSize: 5
     allBlogsForPage: false
 text:
-    title: intcpu的博客
+    title: 算数的博客
     intro: >
           个人博客，欢迎访问
