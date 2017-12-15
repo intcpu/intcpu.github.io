@@ -1,5 +1,5 @@
 <?php
-$logfile = 'mkdir -p ../log/git/'.date('Ym').'.log';
+$logfile = '../log/git/'.date('Ym').'.log';
 $logstr  = "========================\n";
 $logstr  .= "[".date("Y-m-d H:i:s")."]";
 exec('mkdir -p ../log/git');
