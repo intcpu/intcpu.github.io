@@ -3,10 +3,13 @@ GitBlog是一个简单易用的Markdown博客系统，它不需要数据库，�
 
 >1. master分支为intcpu.github.io所用
 >2. blog分支为intcpu.com所用
->3. blog分支下使用命令'php ./index.php Gitblog exportSite'可导出全站静态内容到
->   _site目录下，_siteblog目录下导出内容可放到_site/blog目录下
+>3. blog分支下使用命令'php ./index.php Gitblog exportSite'可导出全站静态内容到_site目录下，_siteblog目录下导出内容可放到_site/blog目录下
 >4. master分支内容为blog分支使用default模板导出
 >5. blog分支模板为quest
+>6. updateGit.php为gitgub远程更新hook
+>7. theme_开头分支为其他模板分支，可在服务器上直接git checkout theme_cube等命令使用
+
+
 
 预览
 

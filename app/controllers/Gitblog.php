@@ -75,13 +75,17 @@ class Gitblog extends CI_Controller
 
 			for ($pageNo = 1; $pageNo <= $pages; $pageNo++) {
 				$fileContent = $this->category($categoryId, $pageNo);
-				$filePath = GB_SITE_DIR . "/category/".urlencode($categoryId)."/page/";
+				//by cd 20171215
+				//$filePath = GB_SITE_DIR . "/category/".urlencode($categoryId)."/page/";
+				$filePath = GB_SITE_DIR . "/category/".iconv("UTF-8", "GBK", $categoryId)."/page/";
 				if (!file_exists($filePath)) {
 					mkdir($filePath, 0755, true);
 				}
 				write_file($filePath . $pageNo . ".html", $fileContent);
 				if ($pageNo == 1) {
-					$filePath = GB_SITE_DIR . "/category/".urlencode($categoryId);
+					//by cd 20171215
+					//$filePath = GB_SITE_DIR . "/category/".urlencode($categoryId);
+					$filePath = GB_SITE_DIR . "/category/".iconv("UTF-8", "GBK", $categoryId);
 					if (!file_exists($filePath)) {
 						mkdir($filePath, 0755, true);
 					}
@@ -100,13 +104,17 @@ class Gitblog extends CI_Controller
 
 			for ($pageNo = 1; $pageNo <= $pages; $pageNo++) {
 				$fileContent = $this->tags($tagId, $pageNo);
-				$filePath = GB_SITE_DIR . "/tags/".urlencode($tagId)."/page/";
+				//by cd 20171215
+				//$filePath = GB_SITE_DIR . "/tags/".urlencode($tagId)."/page/";
+				$filePath = GB_SITE_DIR . "/tags/".iconv("UTF-8", "GBK", $tagId)."/page/";
 				if (!file_exists($filePath)) {
 					mkdir($filePath, 0755, true);
 				}
 				write_file($filePath . $pageNo . ".html", $fileContent);
 				if ($pageNo == 1) {
-					$filePath = GB_SITE_DIR . "/tags/".urlencode($tagId);
+					//by cd 20171215
+					//$filePath = GB_SITE_DIR . "/tags/".urlencode($tagId);
+					$filePath = GB_SITE_DIR . "/tags/".iconv("UTF-8", "GBK", $tagId);
 					if (!file_exists($filePath)) {
 						mkdir($filePath, 0755, true);
 					}
