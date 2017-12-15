@@ -3,7 +3,7 @@
 url: /
 title: 算数
 subtitle: 算数的博客
-theme: quest
+theme: line
 enableCache: true
 highlight: true
 mathjax: false
