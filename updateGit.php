@@ -1,8 +1,9 @@
 <?php
-$logfile = 'git.log';
-$logstr  = "========================\r\n";
+$logfile = 'mkdir -p ../log/git/'.date('Ym').'.log';
+$logstr  = "========================\n";
 $logstr  .= "[".date("Y-m-d H:i:s")."]";
-exec('echo '.$logstr.' >> '.$logfile);
+exec('mkdir -p ../log/git');
+exec('echo \''.$logstr.'\' >> '.$logfile);
 exec('git pull >> '.$logfile);
 exit('error');
 ?>
