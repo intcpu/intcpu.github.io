@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[intcpu]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>intcpu</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 22 Sep 2026 15:12:52 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 22 Sep 2026 15:12:43 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[index]]></title><description><![CDATA[publish: true
-title: "首页" ]]></description><link>docs/index.html</link><guid isPermaLink="false">docs/index.md</guid><pubDate>Tue, 22 Sep 2026 15:12:08 GMT</pubDate></item><item><title><![CDATA[linux增加swap分区]]></title><description><![CDATA[安装Linux的时候，不知道swap空间分配多少比较好，所以会随便分配一个，在真正使用的时候，比如安装Oracle10g会要求很大的swap空间，发现swap空间不够，增加swap空间大小：以下的操作都要在root用户下进行，首先先建立一个分区，采用dd命令比如dd if=/dev/zero of=/swap bs=1M count=1024
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[intcpu]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>intcpu</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 22 Sep 2026 15:31:33 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 22 Sep 2026 15:31:32 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[index]]></title><description><![CDATA[publish: true
+title: "数学计算" <a data-href="服务器使用nginx负载均衡" href="docs/服务器/服务器使用nginx负载均衡.html" class="internal-link" target="_self" rel="noopener nofollow">服务器使用nginx负载均衡</a><br>
+<a data-href="linux常用命令" href="docs/服务器/linux常用命令.html" class="internal-link" target="_self" rel="noopener nofollow">linux常用命令</a><br>
+<a data-href="linux增加swap分区" href="docs/服务器/linux增加swap分区.html" class="internal-link" target="_self" rel="noopener nofollow">linux增加swap分区</a><br>
+<a data-href="rust安装" href="docs/服务器/rust安装.html" class="internal-link" target="_self" rel="noopener nofollow">rust安装</a><br>
+<a data-href="ubuntu14.04文件夹大小示意" href="docs/服务器/ubuntu14.04文件夹大小示意.html" class="internal-link" target="_self" rel="noopener nofollow">ubuntu14.04文件夹大小示意</a><br>
+<a data-href="程序运行速度测试-秒表功能" href="docs/互联网开发/程序运行速度测试-秒表功能.html" class="internal-link" target="_self" rel="noopener nofollow">程序运行速度测试-秒表功能</a><br>
+<a data-href="开源产品收藏单" href="docs/互联网开发/开源产品收藏单.html" class="internal-link" target="_self" rel="noopener nofollow">开源产品收藏单</a><br>
+<a data-href="排序算法运行时间比较：冒泡，选择，插入，快速，居然快速最慢" href="docs/互联网开发/排序算法运行时间比较：冒泡，选择，插入，快速，居然快速最慢.html" class="internal-link" target="_self" rel="noopener nofollow">排序算法运行时间比较：冒泡，选择，插入，快速，居然快速最慢</a><br>
+<a data-href="数据结构之线性表之链表及PHP代码实现" href="docs/互联网开发/数据结构之线性表之链表及php代码实现.html" class="internal-link" target="_self" rel="noopener nofollow">数据结构之线性表之链表及PHP代码实现</a><br>
+<a data-href="数据结构之线性表之顺序表及PHP代码实现" href="docs/互联网开发/数据结构之线性表之顺序表及php代码实现.html" class="internal-link" target="_self" rel="noopener nofollow">数据结构之线性表之顺序表及PHP代码实现</a><br>
+<a data-href="Jekyll博客创建" href="docs/互联网开发/jekyll博客创建.html" class="internal-link" target="_self" rel="noopener nofollow">Jekyll博客创建</a><br>
+<a data-href="jenkins-java安装配置" href="docs/互联网开发/jenkins-java安装配置.html" class="internal-link" target="_self" rel="noopener nofollow">jenkins-java安装配置</a><br>
+<a data-href="mogodb一般操作" href="docs/互联网开发/mogodb一般操作.html" class="internal-link" target="_self" rel="noopener nofollow">mogodb一般操作</a><br>
+<a data-href="nginx linux 日志分析" href="docs/互联网开发/nginx-linux-日志分析.html" class="internal-link" target="_self" rel="noopener nofollow">nginx linux 日志分析</a><br>
+<a data-href="nginx及PHP错误日志分析Top10" href="docs/互联网开发/nginx及php错误日志分析top10.html" class="internal-link" target="_self" rel="noopener nofollow">nginx及PHP错误日志分析Top10</a><br>
+<a data-href="PHP-PDO静态调用类" href="docs/互联网开发/php-pdo静态调用类.html" class="internal-link" target="_self" rel="noopener nofollow">PHP-PDO静态调用类</a><br>
+<a data-href="PHP素数判定算法" href="docs/互联网开发/php素数判定算法.html" class="internal-link" target="_self" rel="noopener nofollow">PHP素数判定算法</a><br>
+<a data-href="redis安装脚本" href="docs/互联网开发/redis安装脚本.html" class="internal-link" target="_self" rel="noopener nofollow">redis安装脚本</a><br>
+<a data-href="sublime个人PHP开发配置" href="docs/互联网开发/sublime个人php开发配置.html" class="internal-link" target="_self" rel="noopener nofollow">sublime个人PHP开发配置</a><br>
+<a data-href="SVN本机自动更新及双机同步更新解决" href="docs/互联网开发/svn本机自动更新及双机同步更新解决.html" class="internal-link" target="_self" rel="noopener nofollow">SVN本机自动更新及双机同步更新解决</a><br>
+<a data-href="SVN自动导出上传" href="docs/互联网开发/svn自动导出上传.html" class="internal-link" target="_self" rel="noopener nofollow">SVN自动导出上传</a><br>
+<a data-href="VIM 常用命令" href="docs/互联网开发/vim-常用命令.html" class="internal-link" target="_self" rel="noopener nofollow">VIM 常用命令</a><br>
+<a data-href="VIM护眼色(放在colors目录下)" href="docs/互联网开发/vim护眼色(放在colors目录下).html" class="internal-link" target="_self" rel="noopener nofollow">VIM护眼色(放在colors目录下)</a><br>
+<a data-href="zookeeper安装" href="docs/互联网开发/zookeeper安装.html" class="internal-link" target="_self" rel="noopener nofollow">zookeeper安装</a><br>
+<a data-href="数据分析简单概念" href="docs/量化交易/数据分析简单概念.html" class="internal-link" target="_self" rel="noopener nofollow">数据分析简单概念</a>-<br>
+<a data-href="公共 DNS 服务器 IP 地址" href="docs/其他/公共-dns-服务器-ip-地址.html" class="internal-link" target="_self" rel="noopener nofollow">公共 DNS 服务器 IP 地址</a><br>
+<a data-href="信息安全" href="docs/其他/信息安全.html" class="internal-link" target="_self" rel="noopener nofollow">信息安全</a><br>
+<a data-href="桌面自动点击" href="docs/其他/桌面自动点击.html" class="internal-link" target="_self" rel="noopener nofollow">桌面自动点击</a><br>
+<a data-href="IANA保留IP地址" href="docs/其他/iana保留ip地址.html" class="internal-link" target="_self" rel="noopener nofollow">IANA保留IP地址</a>]]></description><link>docs/index.html</link><guid isPermaLink="false">docs/index.md</guid><pubDate>Tue, 22 Sep 2026 15:27:28 GMT</pubDate></item><item><title><![CDATA[linux增加swap分区]]></title><description><![CDATA[安装Linux的时候，不知道swap空间分配多少比较好，所以会随便分配一个，在真正使用的时候，比如安装Oracle10g会要求很大的swap空间，发现swap空间不够，增加swap空间大小：以下的操作都要在root用户下进行，首先先建立一个分区，采用dd命令比如dd if=/dev/zero of=/swap bs=1M count=1024
 这样就会创建/home/swap这么一个分区文件。文件的大小是512000个block，一般情况下1个block为1K，所以这里空间是512M。接着再把这个分区变成swap分区。/sbin/mkswap /swap
 再接着使用这个swap分区。使其成为有效状态。/sbin/swapon /swap
 现在再用free -m命令查看一下内存和swap分区大小，就发现增加了512M的空间了。不过当计算机重启了以后，发现swap还是原来那么大，新的swap没有自动启动，还要手动启动。那我们需要修改/etc/fstab文件，增加如下一行
